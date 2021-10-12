@@ -1,0 +1,19 @@
+h1, h2{
+    background-color: orangered;
+    text-align:center;
+}
+p{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  div{
+    margin: 2%
+  }
